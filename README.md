@@ -14,7 +14,7 @@ SERVICEVERSE is a web-based platform designed to manage and facilitate a wide va
 - **Media Handling**: Facilitates user-uploaded files stored in the `media` directory for efficient retrieval.
 - **Responsive Design**: Incorporates dynamic templates for a user-friendly, responsive interface.
 - **Asset Management**: Efficient static file handling for CSS, JavaScript, and image files.
-- **Database Integration**: SQLite is used for seamless and lightweight data management.
+- **Database Integration**: MySQL is used for seamless and lightweight data management.
 
 ## Project Structure
 
