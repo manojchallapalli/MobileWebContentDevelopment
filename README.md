@@ -2,6 +2,12 @@
 
 SERVICEVERSE is a web-based platform designed to manage and facilitate a wide variety of user services. This platform is built using Django, leveraging its robust framework for scalability, modular design, and effective handling of dynamic content.
 
+## Team Members
+- **Manoj Challapalli** : mc86676n@pace.edu
+- **Tejaswi Talluru** : tt48868n@pace.edu
+- **Manjusha Domala** : md13277n@pace.edu
+
+
 ## Features
 
 - **User Management**: Comprehensive account management including registration, login, and user profile features.
